@@ -1,7 +1,6 @@
 # Prova-.NET_Metatron
 
 <h2>Projeto</h2>
-<hr>
 <p>Meu objetivo era focar no que foi informado nos requisitos para a construção do sistema, o pra mim foi um desafio enorme, pois não sou familiarizado com arquitetura DDD e programação em .NET, isso junto com o fato do prazo de apenas 3 dias para fazer o projeto só agravava minha situação.</p>
 <p>Tentando perder o mínimo de tempo possível fui atrás de videos e artigos relacionados ao projeto que iria fazer, e no primeiro momento foquei em construir a base completa do sistema, adicionado todos os projetos necessários antes de adicionar as entidades, logo apos ter as entidades principais necessárias, meu foco foi testar o relacionamento com o Banco de Dados com utilização do Code First.</p>
 <p>No FrontEnd tentei utilizar sistema MVC com utilização de AutoMapper.</p>
